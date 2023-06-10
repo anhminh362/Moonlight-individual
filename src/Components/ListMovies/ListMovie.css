@@ -1,0 +1,6 @@
+/* file css */
+/* =======================Playing and Upcoming ===========================*/
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }
